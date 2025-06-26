@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Signup test - run 58210",
+    "input": {
+      "firstname": "Rosanna",
+      "lastname": "Maggio",
+      "email": "rosanna.maggio58210@yopmail.com",
+      "phoneNumber": 50640714,
+      "companyName": "Price, Kassulke and Lueilwitz 58210",
+      "companySize": "101-250",
+      "password": "TestPass@58210"
+    },
+    "expectError": null
+  }
+]

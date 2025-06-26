@@ -1,0 +1,391 @@
+{
+  "cookies": [
+    {
+      "name": "utm_source",
+      "value": "",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": 1755332428.797579,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utm_medium",
+      "value": "",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": 1755332428.799036,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utm_campaign",
+      "value": "",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": 1755332428.799285,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utm_term",
+      "value": "",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": 1755332428.799445,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "referer",
+      "value": "none",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1755332428.799494,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "referrer_params",
+      "value": "",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1755332428.799551,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.385201244.1750148432",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1784708438.867488,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.457387809.1750148432",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1750234838,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-20639874-9",
+      "value": "1",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1750148491,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "YSC",
+      "value": "1CaX-DcoJ-M",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "K0A2Pi769uw",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1765700442.109452,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJTRxIEGgAgRw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1765700442.109499,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "b123d5ae4cb14d719f983a01fbe8374c.20250617.20260617",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1781684432.856695,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "15hxa4z%7C2%7Cfwu%7C0%7C1994",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1781684433,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "remember_user_token",
+      "value": "eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaGJDRnNHYVFJRGUwa2lHV2cyVEVWelpUbGtPWGd6ZGpSSWQzZGlVWGd4QmpvR1JWUkpJaGN4TnpVd01UUTRORE0xTGpFM01EVXhNalFHT3dCRyIsImV4cCI6IjIwMjYtMDYtMTdUMDg6MjA6MzUuMTcwWiIsInB1ciI6ImNvb2tpZS5yZW1lbWJlcl91c2VyX3Rva2VuIn19--87ede496c6835d27c917db7b5505d017973f0f61",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": 1781684435.022164,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "1188E181D6B068C0097EF78FD7B1691E",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1783844436.581802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1750753236.581989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "1188E181D6B068C0097EF78FD7B1691E",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1783844436.582065,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "1188E181D6B068C0097EF78FD7B1691E",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1783844437.855378,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1750753237.855499,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1750149037.855573,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mp_d7acec92bd109186319017ce5c8e6661_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%22%24device%3Adbc78874-28e9-49bb-9649-1b7547a01e76%22%2C%22%24device_id%22%3A%22dbc78874-28e9-49bb-9649-1b7547a01e76%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1781684437,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_4KGY4T4JDL",
+      "value": "GS2.2.s1750148432$o1$g1$t1750148438$j54$l0$h0",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1784708438.997021,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "quick_item_center_btn_clicked_count",
+      "value": "0",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "quick_actions_new_label_set",
+      "value": "true",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "screen_resolution",
+      "value": "1280",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "15v21fs%7C1750148439450%7C2%7C1%7Cj.clarity.ms%2Fcollect",
+      "domain": ".inventoryontrack.com",
+      "path": "/",
+      "expires": 1750234839,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CJb7s8zn4vLgMBD514n9gviNAxi6tLSAg_iNAw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1765700439.456129,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_EZOfficeInventory_session",
+      "value": "7egbt81s5NZ0SNK9C4wtQDQUYc2y1JNZB5hW%2BGUvOZccIvFmd%2BfhromrLIxDNeXlN6nhFDvKViRn6sZeoNtjPRJIxewqEIPcX%2Bq91EX8YeJ82JueCllb%2FKL%2Fxt9g07YVxnqonfTh8Ve%2BDc%2FcWvstq57ockJgC34THk2XQ4GDRDUS8OHcs%2ForH2dlkospVlp5ha6EA2HZEa6To468gPXKJ%2BQeNxrrKHBglXpg%2B859hyjo4DPoPEJDeK1p0Er%2FUjcYOzQ73%2BizXADPe90%2Bs0DmBYkr5EXyllM2Z%2FEHm9ZNiQzfS9UNgawVebEEhN%2FiHy%2B%2BQiCA%2B2DrYSdD1z3WRe2L1k97PhrrdCA0tuCM16d4KYOuNlBEPO7aY0QbNA6ztumYtL%2BmmlrsCrY59%2B%2FDaCL%2BqnyKXN9%2BKrmYFVceVDP11LQVEV%2BQAZZ2TTInenpjdYhQUuCFAIMde2Y5gRI6rjcZ9UEENHvXoApTrzqXDztVCgHChp4tB4gQeaUyOAGCJuz6azce8M77vgHqQQiSxLI5gqG4d2VATQr3hY4MgWSB2LpXmfpWzZvwWsmzylMrVpDmd1OB07J4FvB89lC%2F9X2TMlSRcocOOEQmhwTTnVHpQOKHEZLhAJqeg3zksmDV5PKQYBL6GGuQuW1rjAivjlaWlWT%2F7eAHqDXFE8ZHaGgSfBxwIhrWn9zNAui4J835HHeWjoRapL5r06M2hYGSG1GPfWJTQdVL7UbjjW9VxVjFzomLo338qUN9LddJv1uCf2r%2Ftr%2BWL3sZjHxjxmWWUaFIpMGjfwLZzs8uyoJVCrBXYhRGgp7l6nPgJHPU%2FoOOoDsmKXlqUyC5V4BYdXnqMulYK0s4l4GHIwuIrB97ctQYALwBpuXwNcl7mpNy7gYKNl1Q6%2F%2F89Ac2uTviItz5LcSSTNn4aZzVmd%2FHBKEjfqpIGGSsR0Efq21Pc57bc6P%2FMw%3D%3D--%2BSwJHR39kkucDKfx--xFdfgPYEVz%2ByseCbuXnoGA%3D%3D",
+      "domain": "7vals1.inventoryontrack.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "value": "d91e05d925fb5fcf0a6082e9c485f348cc116314443d02d09f04505980888177",
+      "domain": ".ui.customsearch.ai",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "NID",
+      "value": "524=R2rwUNBhMRVNFjwryU8dxLnJOHabzx0gPuiYmZLzXMGub9u76gwLyCn_Ec-FQieTXBOkY3eczBM6abRwPvDYXFKa1C30v0ltMQL2FYo3C67TxqgpOmoys96SGowOwbsUklRiK_FU6ClbJuhhMWLuqUeGIaC0j7UuIQv5nidCOGnGUXahvxDxnFA7xXb0L7w7qA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1765959641.540974,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "vGXQpuinYgi9srLisYHiRQ+YuB8exmMPW2tgyvHTjXI4vXEcUPFKGshvCq3GQqXIDb84+6F9xLLQUaos2fgPlYo4ImPsncM5rXYrMUjZZsEHORLfze5C6RjoNqqq",
+      "domain": "widget-mediator.zopim.com",
+      "path": "/",
+      "expires": 1750753243.098703,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://7vals1.inventoryontrack.com",
+      "localStorage": [
+        {
+          "name": "ZD-store",
+          "value": "{\"activeEmbed\":\"ticketSubmissionForm\",\"widgetShown\":false,\"is_chatting\":false}"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"5c5a91576f8a4f749b65cbde10c53f94\",\"expiry\":1750149342265,\"tabs\":{\"count\":1,\"expiry\":0}}"
+        },
+        {
+          "name": "__zlcstore",
+          "value": "{\"Wfz7DFbuXcc4yQEssHaahLUurrn5LNxO\":{\"web_sdk_last_host\":\"widget-mediator.zopim.com\",\"timestamp\":1750148443151}}"
+        },
+        {
+          "name": "lastActiveHelpPage",
+          "value": "home_page"
+        },
+        {
+          "name": "__mpq_d7acec92bd109186319017ce5c8e6661_ev",
+          "value": "[{\"id\":\"k02olqaya0ch3rcu\",\"flushAfter\":1750148442380,\"payload\":{\"event\":\"$mp_web_page_view\",\"properties\":{\"$os\":\"Mac OS X\",\"$browser\":\"Chrome\",\"$current_url\":\"https://7vals1.inventoryontrack.com/users/sign_in\",\"$browser_version\":136,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.65.0\",\"$insert_id\":\"wk4639ms5wc4v4z4\",\"time\":1750148432.38,\"distinct_id\":\"$device:dbc78874-28e9-49bb-9649-1b7547a01e76\",\"$device_id\":\"dbc78874-28e9-49bb-9649-1b7547a01e76\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"current_page_title\":\"EZOfficeInventory » Sign In - EZOfficeInventory\",\"current_domain\":\"7vals1.inventoryontrack.com\",\"current_url_path\":\"/users/sign_in\",\"current_url_protocol\":\"https:\",\"CompanyID\":2778,\"token\":\"d7acec92bd109186319017ce5c8e6661\",\"mp_sent_by_lib_version\":\"2.65.0\"}}}]"
+        },
+        {
+          "name": "ZD-buid",
+          "value": "3b2233ab9c95448cbc0037f8b83ad9ce"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "ZDlxbDFuMWI1MDJrZQ=="
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "yt-remote-connected-devices",
+          "value": "{\"data\":\"[]\",\"expiration\":1750234842312,\"creation\":1750148442312}"
+        },
+        {
+          "name": "yt-remote-device-id",
+          "value": "{\"data\":\"8a720ea9-ab97-42c4-9221-fdf2bef2bb05\",\"expiration\":1781684440510,\"creation\":1750148440511}"
+        },
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1752740442225,\"creation\":1750148442225}"
+        }
+      ]
+    }
+  ]
+}
