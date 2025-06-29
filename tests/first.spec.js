@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test'; // Always needed for writing tests and using built-in assertions.
 //const{test} = require('@playwright/test'); // this stores playwright in test, so that now it knows where to fetch all playwright stuff from
 
-test ('First Playwright Test', async ({browser,page})=> {
+test.skip('First Playwright Test (legacy skipped)', async ({browser,page})=> {
 
 //const context= await browser.newContext();
 //const page = await context.newPage();

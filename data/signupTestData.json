@@ -1,14 +1,15 @@
 [
   {
-    "description": "Signup test - run 58210",
+    "description": "Signup test - run 71713",
     "input": {
-      "firstname": "Rosanna",
-      "lastname": "Maggio",
-      "email": "rosanna.maggio58210@yopmail.com",
-      "phoneNumber": 50640714,
-      "companyName": "Price, Kassulke and Lueilwitz 58210",
-      "companySize": "101-250",
-      "password": "TestPass@58210"
+      "firstname": "Melba",
+      "lastname": "Zboncak",
+      "email": "melba.zboncak71713@yopmail.com",
+      "countryCode": "92",
+      "phoneNumber": "3588880707",
+      "companyName": "AutoEHMTCRJO1567",
+      "companySize": "More than 100,000",
+      "password": "TestPass@71713"
     },
     "expectError": null
   }

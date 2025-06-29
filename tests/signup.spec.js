@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('signup testcase 1 :',async({browser,page})=>
+test.skip('signup testcase 1 : (legacy test skipped - covered by signUp1.spec.js)',async({browser,page})=>
 {
     
  await page.goto("https://ezo.io/assetsonar/");

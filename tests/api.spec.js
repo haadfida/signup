@@ -1,4 +1,9 @@
 import { test, expect,request } from '@playwright/test';
+import 'dotenv/config';
+
+// Skip the entire file when credentials are not provided
+test.skip(!process.env.LOGIN_EMAIL || !process.env.LOGIN_PASSWORD, 'Environment credentials missing');
+
 //request for api testing
 
 test.beforeEach( async({browser,page}) =>
@@ -8,15 +13,19 @@ test.beforeEach( async({browser,page}) =>
   const html = await getResponse.text();
   const match = html.match(/<meta name="csrf-token" content="(.*?)"/);
   const csrfToken = match ? match[1] : null;
-  console.log(csrfToken);
+  console.log(`📌 CSRF token: ${csrfToken}`);
+
+  const LOGIN_EMAIL = process.env.LOGIN_EMAIL;
+  const LOGIN_PASSWORD = process.env.LOGIN_PASSWORD;
+
   const loginPayload = {
-    "authenticity_token": "1VdBy0tOe2P1BZ+OG6EiTA+usar5zbjwe/ThF5HWOWuxAn817ZEGGu71W/BygbTtdvc5LVxOQRvH2VYG2d0u4A==",
-    "user": {
-      "email": "prod-1@yopmail.com",
-      "password": "7vals@123",
-      "remember_me": "1"
+    authenticity_token: csrfToken,
+    user: {
+      email: LOGIN_EMAIL,
+      password: LOGIN_PASSWORD,
+      remember_me: '1'
     },
-    "commit": "Sign in"
+    commit: 'Sign in'
   };
   
   const loginResponse= await getCSRF.post("https://prodezo1.ezofficeinventory.com/users/sign_in",
